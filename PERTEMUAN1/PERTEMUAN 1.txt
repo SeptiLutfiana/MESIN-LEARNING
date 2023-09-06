@@ -1,0 +1,23 @@
+MATERI MESIN LEARNING
+
+pengenalan mesin learning
+tipe data 
+regresi
+kalsifikasi
+quiz
+ensemble learning
+klustering
+UTS
+ANN
+RNN
+CNN
+OCR
+QUIZ
+Dimensional Reduction
+machine learning pipelines
+final project
+
+
+
+
+hubungan AI dengan Meachine Learning
